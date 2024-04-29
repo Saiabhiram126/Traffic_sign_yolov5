@@ -1,0 +1,9 @@
+# train and val data
+train: ../Dataset/images/train/
+val: ../Dataset/images/val/
+
+#no.of classes
+nc: 4
+
+# class names
+names: ['speed limit','yield','mandatory','other']
